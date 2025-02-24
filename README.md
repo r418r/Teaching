@@ -24,6 +24,7 @@ The Study-Sheet template can be adapted for any subject area. Here’s how you c
 
 - **For Educators**: You can fill in each section based on the topic you’re teaching. The template gives a clear structure that supports both independent study and guided learning.
 - **For Students**: Use the Study-Sheet to stay organized, review key concepts, practice problems, and self-assess your understanding.
+- **For Self Study**: Use the Study-Sheet to plan for your own learning outside a curriculum. By doing this, you are not only self-studying, but you are also self-teaching.
 
 ## Folder Structure
 
