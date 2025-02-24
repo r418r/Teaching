@@ -8,7 +8,6 @@ Welcome to the Study-Sheet repository! This collection is designed to help stude
 2. [How to Use Study-Sheet](#how-to-use-study-sheet)
 3. [Folder Structure](#folder-structure)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
